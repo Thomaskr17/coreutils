@@ -191,3 +191,5 @@ Makefile.in
 TAGS
 THANKS
 THANKS-to-translators
+.vscode/ipch/23532b029382fbf6/ls.ipch
+.vscode/ipch/23532b029382fbf6/mmap_address.bin
